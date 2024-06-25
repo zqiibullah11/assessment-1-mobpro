@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TukarIn</string>
+    <string name="konversi_uang_button">Konversi Uang Button</string>
+    <string name="konversi_rupiah_title">Konversi Rupiah</string>
+    <string name="icon_catatan">Icon Catatan</string>
+    <string name="konversi_title">Konversi</string>
+    <string name="catatan_keuangan_title">Catatan Keuangan</string>
+    <string name="tentang_aplikasi_title">Tentang Aplikasi</string>
+    <string name="about">Aplikasi ini adalah aplikasi tentang konversi mata uang dari Rupiah ke Dollar dan atau sebaliknya. Anda juga dapat menyimpan catatan keuangan anda ke pada menu Catatan Keuangan.</string>
+    <string name="hitung_button_title">Hitung</string>
+    <string name="bagikan_template">Nominal: %1$s  Konversi ke: %2$s  Hasil: %3$s</string>
+    <string name="reset_button">Reset</string>
+    <string name="tombol_kembali">Tombol Kembali</string>
+    <string name="bagikan_button">Bagikan</string>
+    <string name="app_info_icon">Icon Tentang Aplikasi</string>
+    <string name="nominal_title">Nominal</string>
+    <string name="konversi_kemana_title">Konversi kemana?</string>
+    <string name="harap_lengkapi_semua_data_toast">Harap lengkapi semua data.</string>
+</resources>
